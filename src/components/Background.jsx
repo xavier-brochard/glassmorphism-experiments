@@ -14,9 +14,9 @@ const Background = ({ children }) => (
       background: "linear-gradient(167.96deg, #FA709A 0%, #9733EE 100%)",
     }}
   >
-    {children}
     <Wave start="#9C31B7" end="#9C31B7" bottom="100" />
     <Wave start="#7E388E" end="#7E388E" />
+    {children}
   </div>
 );
 
