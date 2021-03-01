@@ -1,15 +1,14 @@
 import React from "react";
 import AnimatedCard from "./AnimatedCard";
+import SpringCard from "./SpringCard";
 
 const Item = ({ title, description }) => (
-  <div>
-    {/* <AnimatedCard> */}
+  <SpringCard>
     <div className="card">
       <h2>{title}</h2>
       <p style={{}}>{description}</p>
     </div>
-    {/* </AnimatedCard> */}
-  </div>
+  </SpringCard>
 );
 
 export default Item;
