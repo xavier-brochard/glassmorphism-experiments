@@ -6,6 +6,7 @@ const Wave = ({ bottom, start, end }) => {
   return (
     <svg
       style={{
+        zIndex: 0,
         position: "absolute",
         width: "100%",
         bottom: bottom ?? 0,
