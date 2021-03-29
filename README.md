@@ -1,5 +1,16 @@
 # Getting Started with Create React App
 
+![Hero](./public/hero.png)
+
+Experimenting glassmorphic UI design and animating things with [react-spring](https://www.react-spring.io/).
+
+## Quickstart
+
+```
+npm i
+npm start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
