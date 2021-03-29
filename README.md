@@ -2,7 +2,7 @@
 
 ![Hero](./public/hero.png)
 
-Experimenting glassmorphic UI design and animating things with [react-spring](https://www.react-spring.io/).
+Experimenting with the glassmorphic UI design trend, and animating things with [react-spring](https://www.react-spring.io/).
 
 ## Quickstart
 
