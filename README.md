@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Glassmorphism experiments
 
 ![Hero](./public/hero.png)
 
